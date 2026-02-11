@@ -17,13 +17,30 @@ Based in **Morocco 🇲🇦**
 
 I am a passionate programmer with a strong background in **IT Systems (Bac+3)**, currently specializing in **Data Engineering** through the intensive JobInTech training at Ynov Campus.
 
-I bridge the gap between application development and data infrastructure. My goal is to design scalable architectures that transform raw data into actionable insights.
+I bridge the gap between application development and data infrastructure. My goal is to design scalable architectures that transform raw data into actionable insights using modern Big Data tools.
 
-* 🔭 I’m currently working on **Distributed Caching Systems with Kafka, NiFi & Redis**.
-* 🌱 I’m currently learning **Advanced Big Data processing with Spark & Hadoop**.
+* 🎓 I recently completed my **PFE on Real-Time Big Data Pipelines** (Instacart Case).
+* 🔭 I’m currently working on **Data Lineage & Observability with OpenLineage**.
+* 🌱 I’m constantly learning about **Cloud Architecture (AWS/Azure) & MLOps**.
 * 👯 I’m looking to collaborate on **Open Source Data Pipelines & Python Projects**.
-* 💬 Ask me about **Python, SQL, Laravel, and Docker**.
+* 💬 Ask me about **Kafka, ClickHouse, Python, and Docker**.
 * ⚡ Fun fact: I love building tools that automate boring tasks!
+
+---
+
+### 🏆 Featured Project
+
+#### 🛒 [Instacart Real-Time Supply Chain Pipeline](https://github.com/ejabra/instacart-pipeline)
+*A comprehensive Big Data pipeline designed to optimize stock management and predict customer demand in real-time.*
+
+* **Problem:** Static stock management leading to waste and shortages.
+* **Solution:** An End-to-End Streaming Architecture (ETL/ELT) processing 3M+ orders.
+* **Key Features:**
+    * 🚀 **Ingestion:** Real-time stream handling with **Apache NiFi** & **Kafka**.
+    * ⚡ **Storage:** OLAP Analytics with **ClickHouse** (10x faster than MySQL).
+    * 🤖 **ML:** Demand prediction using **Random Forest** (Scikit-Learn).
+    * 📊 **Viz:** Live Monitoring with **Streamlit** & Business BI with **Power BI**.
+    * 🔍 **Governance:** Data Lineage implemented with **Marquez/OpenLineage**.
 
 ---
 
@@ -32,13 +49,17 @@ I bridge the gap between application development and data infrastructure. My goa
 #### 📊 Data Engineering & Big Data
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-728E9B?style=flat&logo=apache&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-F5475B?style=flat&logo=clickhouse&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+#### 🤖 Machine Learning & Visualization
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 #### 💻 Full Stack & Mobile
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -52,17 +73,7 @@ I bridge the gap between application development and data infrastructure. My goa
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=flat&logo=vultr&logoColor=white)
 
----
-
-### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ejabra&show_icons=true&theme=radical&hide=issues" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejabra&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-USER-GITHUB&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ejabra&color=blueviolet" alt="Profile views" />
 </div>
